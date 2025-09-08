@@ -1,1 +1,1 @@
-console.log('Hello World Git!');
+console.log('Testing e2e tests');
