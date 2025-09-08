@@ -1,3 +1,3 @@
 console.log('Hello World Git!');
 const author = 'Feature Developer';
-const buggyCode = 'This will break1';
+const buggyCode = 'This will break2';
